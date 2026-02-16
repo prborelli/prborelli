@@ -14,7 +14,8 @@ My Current focus are:
 - **SIEM/SOAR:** Azure Sentinel, Splunk
 - **Blue Team Operations:** System hardening, defensive security practices
 - **Threat Intelligence:** MITRE ATT&CK framework mapping
-
+- **Azure Foundations:** AZ-900 Certification
+- **Azure Administration:** AZ-104 Certification
 
 Education & Training
 
