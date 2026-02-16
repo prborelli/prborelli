@@ -23,5 +23,5 @@ Education & Training
 - **Google Cybersecurity Certificate**
 - **Cisco Networking Academy**
 - **TryHackMe** - Active learner completing SOC and Blue Team paths
-- **Paths Microsoft Learn** - AZ-900 Path
+- **Paths Microsoft Learn** 
 
