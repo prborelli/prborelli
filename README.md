@@ -9,7 +9,7 @@ I'm an IT professional with a strong passion for **Linux, Networking, and Defens
 I'm passionate about new technologies and, above all, **helping others**. This is why I resonate with the Blue Team philosophy.
 
 
-My Current focus are:
+## My Current focus are:
 
 - **SOC Fundamentals:** Threat detection, log analysis, incident response
 - **SIEM/SOAR:** Azure Sentinel, Splunk
@@ -18,7 +18,7 @@ My Current focus are:
 - **Azure Foundations:** AZ-900 Certification
 - **Azure Administration:** AZ-104 Certification
 
-Education & Training
+## Education & Training
 
 - **Cybersecurity: Prevention & Intervention** - Vanier College
 - **Google Cybersecurity Certificate**
@@ -26,11 +26,13 @@ Education & Training
 - **TryHackMe** - Active learner completing SOC and Blue Team paths
 - **Paths Microsoft Learn** 
 
-## My Goal
+## My Goals Are: 
+
 Earn AZ-104 and SC-200 certifications and build real 
 Blue Team / Threat Hunting skills.
 
 ## My Progress
+
 | Phase | Status |
 |-------|--------|
 | AZ-900 Foundations | ✅ Completed |
@@ -38,6 +40,7 @@ Blue Team / Threat Hunting skills.
 | SC-200 Sentinel | ⏳ Pending |
 
 ## The Structure
+
 - `/AZ-900` — Cloud Fundamentals
 - `/AZ-104` — Azure Administrator *(coming soon)*
 - `/SC-200-Sentinel` — Security Operations *(coming soon)*
