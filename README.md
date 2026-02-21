@@ -31,6 +31,7 @@ I'm passionate about new technologies and, above all, **helping others**. This i
 
 ## 📁 Repository Structure
 
-- `/AZ-900` — Cloud Fundamentals
+- [☁️ Azure Cloud Security Jorney - Main Repo](https://github.com/prborelli/Azure-Cloud-Security-Journey) 
+- [📁 AZ-900 — Cloud Fundamentals](https://github.com/prborelli/Azure-Cloud-Security-Journey/tree/main/AZ-900) 
 - `/AZ-104` — Azure Administrator *(coming soon)*
 - `/SC-200-Sentinel` — Security Operations *(coming soon)*
