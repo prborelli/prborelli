@@ -6,14 +6,14 @@ I'm an IT professional with a strong passion for **Linux, Networking, and Defens
 
 I'm passionate about new technologies and, above all, **helping others**. This is why I resonate with the Blue Team philosophy.
 
-## 🎯 Current Focus
+## Current Focus
 
 - **SOC Fundamentals:** Threat detection, log analysis, incident response
 - **SIEM/SOAR:** Azure Sentinel, Splunk
 - **Blue Team Operations:** System hardening, defensive security practices
 - **Threat Intelligence:** MITRE ATT&CK framework mapping
 
-## 🎓 Education & Training
+## Education & Training
 
 - **Cybersecurity: Prevention & Intervention** - Vanier College
 - **Google Cybersecurity Certificate**
@@ -21,7 +21,7 @@ I'm passionate about new technologies and, above all, **helping others**. This i
 - **TryHackMe** - Active learner completing SOC and Blue Team paths
 - **Microsoft Learn Paths**
 
-## 📊 Certification Progress
+## Certification Progress
 
 | Phase | Status |
 |-------|--------|
