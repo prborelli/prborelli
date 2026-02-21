@@ -1,5 +1,6 @@
-Hello I'm Paulo Borelli 
+# ☁️ Azure Cloud Security Journey
 
+### Hello, I'm Paulo Borelli
 
 **IT Professional transitioning to Cloud Security Analyst (Blue Team)**
 
