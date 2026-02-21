@@ -1,4 +1,4 @@
-Hi I'm Paulo
+Hello I'm Paulo Borelli 
 
 
 **IT Professional transitioning to Cloud Security Analyst (Blue Team)**
@@ -25,3 +25,18 @@ Education & Training
 - **TryHackMe** - Active learner completing SOC and Blue Team paths
 - **Paths Microsoft Learn** 
 
+## My Goal
+Earn AZ-104 and SC-200 certifications and build real 
+Blue Team / Threat Hunting skills.
+
+## My Progress
+| Phase | Status |
+|-------|--------|
+| AZ-900 Foundations | ✅ Completed |
+| AZ-104 Administrator | ⏳ Pending |
+| SC-200 Sentinel | ⏳ Pending |
+
+## The Structure
+- `/AZ-900` — Cloud Fundamentals
+- `/AZ-104` — Azure Administrator *(coming soon)*
+- `/SC-200-Sentinel` — Security Operations *(coming soon)*
